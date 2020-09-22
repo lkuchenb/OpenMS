@@ -54,6 +54,7 @@ Further fixes:
 - Fix to LFQ requantification #4633
 - Improved MapAlignerTreeGuided memory usage (#4704) and fixed segfault when featureXML contains no IDs #4665 
 - TOPPAS fixes #4780 
+- Resolve compatibility issues between IDRipper and IDMerger #4957
 
 Various:
 - OMMSAAdapter now writes out native ids and spectrum references #4852 
